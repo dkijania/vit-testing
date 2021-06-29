@@ -1,7 +1,7 @@
 {   
    "initials": [
     {
-      "above_threshold": 30,
+      "above_threshold": 10,
       "pin": "1234"
     }
   ], 
@@ -10,8 +10,8 @@
   "tally_end": 32,
   "refresh_time": "2021-06-11T11:00:00",
   "next_vote_start_time": "2021-07-05T16:00:00",
-  "proposals": 280,
-  "challenges": 7,
+  "proposals": 270,
+  "challenges": 9,
   "slot_duration": 20,
   "slots_per_epoch": 4320,
   "voting_power": 450,
